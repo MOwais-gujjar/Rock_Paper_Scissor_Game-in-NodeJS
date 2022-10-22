@@ -49,7 +49,7 @@ else if(computerchoiceName === "Scissor" && userChoice === "Paper")
 else{
     outCome = "Invalid entry. Please try Again! .. ";
 }
-
+// Console the All Variables
 console.log("\t Computer Chooses: " + computerchoiceName);
 console.log("\t User Chooses: " + userChoice);
 console.log("\t Decision: " + outCome);
